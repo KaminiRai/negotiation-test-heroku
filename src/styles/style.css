@@ -1,0 +1,89 @@
+import 
+
+.socialgoogle {
+  background: transparent;
+  color: gray !important;
+  border: 1px gray solid !important;
+  box-shadow: transparent !important;
+  height: 40px !important;
+  line-height: 0;
+  width: 160px;
+  /* border: 1px !important gray solid !important;
+  width: 160px !important;
+  margin-left: 25px !important;
+  height: 40px !important;
+  vertical-align: middle;
+  line-height: 0;
+  box-shadow: none !important; */
+}
+.socialgit {
+  background: transparent;
+  color: gray;
+  border: 1px gray solid;
+  font-size: 14px;
+  width: 160px;
+  margin-left: 25px;
+  height: 40px;
+  vertical-align: middle;
+  line-height: 0;
+  background-image: url(../assets/img/git.png);
+  background-repeat: no-repeat;
+  background-position-y: 5px;
+  background-position-x: 5px;
+}
+/* .socialgit::before{content: url(../assets/img/git.png);
+  height: 14px;
+  width: 14px;
+}  */
+.socialfb,
+.kep-login-facebook.metro {
+  background: transparent;
+  color: gray;
+  border: 1px gray solid;
+  width: 160px;
+  margin-left: 25px;
+  margin-right: 30px;
+  height: 40px;
+  vertical-align: middle;
+  line-height: 0;
+  font-weight: 100;
+  font-size: 14px;
+  background-image: url(../assets/img/fb.png);
+  background-repeat: no-repeat;
+  background-position-y: 5px;
+  background-position-x: 5px;
+}
+small {
+  color: lightgrey;
+  text-align: center;
+  display: block;
+  margin: 20px;
+}
+.accountform {
+  padding: 10px;
+  border: 1px lightgray solid;
+  margin: 15px;
+}
+.editbutton {
+  float: right;
+  margin-bottom: 10px;
+  background: transparent !important;
+  color: rgb(46, 247, 247) !important;
+  border: none !important;
+  font-weight: bold;
+  width: 50px !important;
+}
+.clear {
+  clear: both;
+}
+.submitbtn {
+  width: 150px;
+  margin: 20px;
+  display: inline-block !important;
+}
+.logo {
+  margin-bottom: -35px;
+}
+.accountdetail{ border-bottom: 1px lightgray solid;
+    padding-bottom: 10px;
+}
